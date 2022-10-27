@@ -1,0 +1,18 @@
+.child {
+    border: 1pt solid grey;
+    margin: 2em;
+    padding: 2em
+}
+
+h2 {
+    text-align: center;
+    color: rgb(28, 28, 168)
+}
+
+button {
+    cursor: pointer;
+}
+
+input {
+    height: 2em;
+}

@@ -1,0 +1,13 @@
+.parent {
+    border:1pt solid grey;
+    margin: 2em;
+    padding: 2em;
+}
+
+h2 {
+    text-align: center;
+}
+
+li {
+    list-style: circle;
+}
