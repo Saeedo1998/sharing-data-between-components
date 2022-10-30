@@ -3,5 +3,6 @@
     <p>Today's Beverage: <strong>{{beverage}}</strong></p>
     <label for="beverage-input">Add a beverage: </label>
     <input type="text" id="beverage-input" #newBeverage>
-    <button (click)="addNewBeverage(newBeverage.value); newBeverage.value=''">Add</button>
+    <button (click)="addNewBeverage(newBeverage.value)">Add</button>
+    <!-- ; newBeverage.value='' -->
 </div>
